@@ -3,8 +3,8 @@ package mongodb_test
 import (
 	"fmt"
 	"gonet/orm/mongodb"
+
 	"gopkg.in/mgo.v2"
-	"gopkg.in1/mgo.v2"
 )
 
 func Example() {

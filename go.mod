@@ -14,6 +14,7 @@ require (
 	go.etcd.io/etcd v3.3.17+incompatible
 	golang.org/x/net v0.0.0-20211123203042-d83791d6bcd9
 	google.golang.org/protobuf v1.28.0
+	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
 	gopkg.in/yaml.v2 v2.4.0
 )
 
